@@ -1,0 +1,34 @@
+main{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.mainh1{
+    text-align: center;
+    font-weight: bold; 
+    font-size: 4em;   
+}
+.div-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.text{
+    justify-content: center;
+    align-content: center;
+    margin-left: 5%;
+    margin-top: 1%;
+    width: 50%;
+}
+.text-p{
+    width: 50%;
+    text-align: left;    
+    padding: 2%;
+    line-height: 170%;
+    font-size: 1.5em;
+}
+.text-h2{
+    font-size: 3em;
+}
+.img{
+    width: 30%;
+}
